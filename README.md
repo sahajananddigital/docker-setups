@@ -44,4 +44,4 @@ docker compose down
 Feel free to submit pull requests with new setups or improvements to existing ones. Your contributions are welcome!
 
 ## License
-This repository is licensed under [MIT License](LICENSE).
+This repository is licensed under [GPL V2](LICENSE).
